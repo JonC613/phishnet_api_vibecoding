@@ -5,10 +5,6 @@
 @baseUrl = {{$dotenv BASE_URL}}
 @apikey = {{$dotenv API_KEY}}
 
-### Default Values (used if environment variables are not set)
-# @baseUrl = https://api.phish.net/v5
-# @apikey = C8024E01341F70ECA7DE
-
 # Phish.net API v5 Collection
 # Base URL: https://api.phish.net/v5
 
